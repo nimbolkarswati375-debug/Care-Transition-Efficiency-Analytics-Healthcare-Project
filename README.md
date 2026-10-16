@@ -253,4 +253,3 @@ The findings highlight substantial changes in care and discharge activity betwee
 
 ---
 
-**Disclaimer:** This project is an analytical study of aggregate program reporting data. It is not an official government assessment and should not be used to draw conclusions about individual cases.
